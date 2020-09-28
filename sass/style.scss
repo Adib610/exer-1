@@ -97,6 +97,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------- */
 @import "utilities/accessibility";
 
-/* Alignments
+/* Mon site
 --------------------------------------------- */
-@import "utilities/alignments";
+@import "monsite/entete";
+
+@import "monsite/layout";
