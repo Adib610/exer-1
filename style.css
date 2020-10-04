@@ -914,6 +914,9 @@ textarea {
 --------------------------------------------- */
 .site-title {
   font-size: 9em;
+}
+
+.site-title a {
   color: red;
 }
 /*# sourceMappingURL=style.css.map */
